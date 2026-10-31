@@ -1,8 +1,13 @@
- ### Code of Conduct
+# Contributor Covenant Code of Conduct
 
- We do not accept contributions written by AI, such contributions will
- be closed without discussion or review.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
- We are not here to argue with you. If you are argumentative, abusive,
- lie or misrepresent your service or are otherwise anti-social we will
- block you.
+## Our Standards
+Examples of behavior that contributes to a positive environment include:
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to tarun@opsharp.dev.
