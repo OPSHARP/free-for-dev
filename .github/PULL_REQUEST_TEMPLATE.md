@@ -1,54 +1,15 @@
-<!--
- ### Free SaaS Offering Submission
+# Pull Request
 
- Thank you for contributing to this list. This list is for **SaaS**
- services that offer a **free tier** to help developers evaluate and
- build something that users can later use and get support for.
+## Description
+Briefly describe what this PR does and why.
 
- The focus of this list is quite broad but we try to keep things
- limited to that which infrastructure developers, like DevOps Practitioners,
- would find useful.
+## Type of Change
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change
+- [ ] Documentation update
 
- This list is the result of more than a thousand people contributing
- to make something useful, we appreciate your efforts.
-
- ### Code of Conduct
-
- We do not accept Pull Requests for additions that do not use this template.
- If you open a Pull Request that was written using AI or does not use this
- form we will close it without reviewing it or discussing it.
-
- We are not here to argue with you. If you are argumentative, abusive,
- lie or misrepresent your service or are otherwise anti-social we will
- block you.
-
- ### Services we do not accept
-
-   * cPanel like PHP + MySQL hosting services.
-   * Free dns services that are generic frontends to CloudFlare or similar
-   * Services that are verbatim copy pastes of others while adding no value
-   * Fake / Temporary / Ephemeral email generators, we have enough of those
-   * Generic developer "toolbox" sites - format converters, calculators etc,
-     we have too many already and more will not add value
--->
-
-## Requirements
-
-<!-- This is only for new submissions -->
-<!-- Please ensure your submission ticks all of the requirements -->
-
- * [ ] This is Software as a Service not self hosted
- * [ ] It has a free tier not just a free trial
- * [ ] Pricing information is clearly visible without signup or phone calls
- * [ ] The submission mentions what is free
- * [ ] The submission is not already present in the list
- * [ ] The service has contact details of those running it and a privacy policy
- * [ ] This is not a generic browser based developer toolbox, I agree to be banned from this list if it is
-
-<!--
- Contributing here is very easy, but does require attention to details.
- We do not accept LLM written submissions.
--->
-
- * [ ] Large Language Models and other AI tick this box
-
+## Checklist
+- [ ] My code follows the project's style guidelines
+- [ ] I have performed a self-review of my own code
+- [ ] I have added tests that prove my fix is effective
