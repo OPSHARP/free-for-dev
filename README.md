@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,8,2,0&height=220&section=header&text=Free-For-Dev&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%81%20Curated%20Catalog%20of%20Free%20Developer%20SaaS%2C%20PaaS%20%E2%80%A2%20Cloud%20Tiers&descAlignY=62&descAlign=50" width="100%" alt="Free-For-Dev 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/free-for-dev">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="95" height="95" alt="Free-For-Dev 3D Icon" />
@@ -1795,8 +1792,4 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,8,2,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
